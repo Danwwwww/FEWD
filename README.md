@@ -2,10 +2,10 @@
 
 git status
 
-git diff
+git diff -see different
 
-git add
+git add . -add to saving progress
 
-git commit save on computer
+git commit -m - save on computer
 
-git push
+git push origin main- publish on github
