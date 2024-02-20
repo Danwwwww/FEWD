@@ -14,4 +14,3 @@ git log - record
 
 git pull origin main - get resources from git
 
-hahaha
