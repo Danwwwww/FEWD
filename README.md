@@ -14,9 +14,12 @@ git log - record
 
 git pull origin main - get resources from git
 
+<<<<<<< HEAD
 git pull --rebase origin master
 
 git push --force
+=======
+>>>>>>> 6df45c66e320b225e01843f70849396bf6e2ea16
 
 Create new branch
 git checkout -b Branch_Name -create branch
@@ -31,6 +34,7 @@ Modify (add/commit)
 
 git push --set-upstream origin Branch_Name
 
+<<<<<<< HEAD
 To push your changes from your personal branch to the GitHub organization's repository, you can follow these steps:
 
 1. Add the organization's repository as a remote:
@@ -50,3 +54,7 @@ To push your changes from your personal branch to the GitHub organization's repo
 4. Enter your GitHub credentials (username and password) if prompted.
 5. After pushing, your changes should be available in the organization's repository under your branch.
    Note: Make sure you have the necessary permissions to push to the organization's repository. If you don't have write access, you may need to create a pull request instead and wait for it to be merged by someone with the appropriate permissions.
+=======
+Check GitHub
+
+>>>>>>> 6df45c66e320b225e01843f70849396bf6e2ea16
